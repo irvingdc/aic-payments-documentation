@@ -1,0 +1,29 @@
+{
+    "plugins": [
+        "api",
+        "highlight",
+        "youku",
+        "cloud-image"
+    ],
+    "pluginsConfig": {
+        "theme-default": {
+            "auto_open": true,
+            "logo": []
+        },
+        "api": {
+            "default": {
+                "url": "http://cashier.51mandou.com",
+                "contentType": "application/json",
+                "headers": {
+                    "APP_ID": "20190307001",
+                    "APP_SECRET": "123"
+                },
+                "security": []
+            }
+        }
+    },
+    "id": 418460,
+    "title": "AppInChinaPay",
+    "description": "AppInChinaServices.com",
+    "cover": "cover.jpg"
+}
