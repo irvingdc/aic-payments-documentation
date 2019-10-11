@@ -12,7 +12,7 @@
         },
         "api": {
             "default": {
-                "url": "http://cashier.51mandou.com",
+                "url": "https://api.appinchinaservices.com",
                 "contentType": "application/json",
                 "headers": {
                     "APP_ID": "20190307001",
